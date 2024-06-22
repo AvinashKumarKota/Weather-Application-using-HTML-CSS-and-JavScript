@@ -1,2 +1,3 @@
 # Weather-Application-using-HTML-CSS-and-JavaScript
 This project is based on the idea of making an application which makes it easier to find the weather of any location provided with city name.
+The Weather App project involves creating a web application using HTML, CSS, and JavaScript to display weather information. Users can interact with the interface to input location details, and the app retrieves and presents real-time weather data. HTML structures the content, CSS styles the layout, and JavaScript handles dynamic functionality such as API calls for weather data and updating the UI based on user input. Overall, it's a simple and user-friendly weather application combining front-end technologies.
